@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "G G",
+        "LCL"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:glow_ink_sac"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        },
+        "C": {
+            "item": "minecraft:comparator"
+        }
+    },
+    "result": {
+        "item": "minecraft:sculk_sensor",
+        "count": 1
+    }
+}
